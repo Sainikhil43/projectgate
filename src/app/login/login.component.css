@@ -1,0 +1,11 @@
+BODY{
+    background-color: rgb(25, 89, 114);
+    height: 600px;
+    color: black;
+}
+#p1{
+    font-weight: bold;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

@@ -1,0 +1,30 @@
+Body{
+    background-image: url(../../assets/photos/caobg1.jpg);
+    height: 1000px;
+    background-repeat: no-repeat;
+  background-size: cover;
+
+}
+p{
+  color: black;
+  font-size: larger;
+  font-weight: bold;
+}
+h1{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color: rgb(29, 0, 0);
+  
+}
+h3,h4{
+  color: rgb(255, 8, 8);
+
+}
+ul{
+  color: black;
+  font-size: larger;
+  font-weight: bold;
+}
+.footer{
+  color: rgb(0, 0, 0);
+  
+}

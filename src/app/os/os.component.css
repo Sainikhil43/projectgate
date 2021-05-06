@@ -1,0 +1,25 @@
+body{
+    background-image: url(../../assets/photos/osbg.jpg);
+    height: 1300px;
+    background-repeat: no-repeat;
+  background-size: cover;
+}
+h1,h2,h3{
+    color: antiquewhite;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    color: aquamarine;
+    font-size: larger;
+    font-weight: bold;
+}
+li{
+    color: burlywood;
+    font-size: larger;
+    font-weight: bold;
+}
+.footer{
+    color: darkseagreen;
+}

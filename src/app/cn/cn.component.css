@@ -1,0 +1,23 @@
+body{
+    background-image: url(../../assets/photos/cnbg.jpg);
+    height: 1300px;
+    background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    color: black;
+    font-size: larger;
+    font-weight: bold;
+}
+ul{
+    color: rgb(255, 255, 255);
+}
+.footer{
+    color: cornsilk;
+}
+h2,h3{
+    color: darkred;
+}

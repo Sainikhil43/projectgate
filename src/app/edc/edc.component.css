@@ -1,0 +1,21 @@
+body{
+    background-image: url(../../assets/photos/edc2bg.jpg);
+    height: 1000px;
+    background-repeat: no-repeat;
+  background-size: cover;
+}
+h1,h2,h3{
+    color: rgb(65, 36, 9);
+}
+p{
+    color: rgb(8, 8, 8);
+    font-size: larger;
+    font-weight: bold;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.footer{
+    font-weight: bold;
+    color: black;
+}

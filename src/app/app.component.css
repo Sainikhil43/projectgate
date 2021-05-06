@@ -1,0 +1,15 @@
+h1{
+    font-family:'Courier New', Courier, monospace;
+    color: antiquewhite;
+    font: size 50px;
+}
+body{
+    background-image: url(../assets/photos/499221.jpg);
+    
+}
+#nl{
+    padding-left:600px ;
+}
+li a:hover {
+    background-color: rgb(133, 133, 133);
+}

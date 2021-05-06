@@ -1,0 +1,17 @@
+body{
+    background-image: url(../../assets/photos/acbg.jpg);
+    height: 1250px;
+    background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    color: rgb(0, 255, 149);
+    font-size: larger;
+    font-weight: bold;
+}
+h1,h2,h3{
+    color: rgb(241, 241, 240);
+}

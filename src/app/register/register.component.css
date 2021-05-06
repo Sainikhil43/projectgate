@@ -1,0 +1,11 @@
+body{
+    background: #000;
+    height: 600px;
+    color: ghostwhite;
+}
+#p1{
+    font-weight: bold;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

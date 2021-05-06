@@ -1,0 +1,30 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: cornsilk;
+}
+body{
+    background-image: url(../../assets/photos/homebg.jpg);
+    height: 1050px;
+}
+p{
+    font-weight: bolder;
+    font-size: larger;
+    color: rgb(4, 1, 24);
+}
+h3{
+    color: rgb(245, 0, 0);
+    
+}
+ul{
+    color: antiquewhite;
+    font-size: larger;
+    font-weight: bolder;
+}
+.footer{
+    color: rgb(0, 0, 0);
+    
+}
+#p1{
+    color: rgb(0, 0, 0);
+    font-weight: lighter;
+}
